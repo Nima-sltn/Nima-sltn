@@ -1,5 +1,6 @@
-### Hi there 👋
-
+ <h1 align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=da2c38&center=true&vCenter=true&width=700&height=100&lines=Hi+there+%F0%9F%91%8B;I+am+Nima+Soltanian+;Good+to+see+you+my+friend+%3A)" alt="Typing SVG" />
+  </h1>
 <!--
 **Nima-sltn/Nima-sltn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
