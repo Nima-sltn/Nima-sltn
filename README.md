@@ -29,8 +29,8 @@
 
 <!--![](https://github-readme-stats.vercel.app/api?username=Nima-sltn&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nima-sltn&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-sltn&theme=dark&hide_border=true&exclude_repo=Tapsi-Frontend-SPA&count_private=true&layout=compact)
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-sltn&,github-readme-stats.github.io) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-sltn&theme=dark&hide_border=true&exclude_repo=Tapsi-Frontend-SPA,github-readme-stats&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-sltn&.github.io) -->
 
 ##
 
