@@ -5,7 +5,7 @@
   
 ### 👨‍💻  About Me:
 
- I’m a front-end developer on a never-ending journey of learning and growth and I'm crazy about studying in the field of Front-end development.
+ I’m a front-end developer on a never-ending journey of learning and growth.
 
 
 
