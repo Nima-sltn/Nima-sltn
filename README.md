@@ -32,8 +32,8 @@
 <!--![](https://github-readme-stats.vercel.app/api?username=Nima-sltn&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nima-sltn&theme=dark&hide_border=true) &nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-sltn&theme=dark&hide_border=true&exclude_repo=Tapsi-Frontend-SPA,github-readme-stats&count_private=true&layout=compact)
 
-<a href="https://gitroll.io/profile/usxXsLzkKsPTBMJ05UQvL0z6Fq1i2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/usxXsLzkKsPTBMJ05UQvL0z6Fq1i2?theme=dark" alt="GitRoll Profile Badge" style="height: 280px;"/></a>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-sltn&.github.io) -->
+<!-- <a href="https://gitroll.io/profile/usxXsLzkKsPTBMJ05UQvL0z6Fq1i2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/usxXsLzkKsPTBMJ05UQvL0z6Fq1i2?theme=dark" alt="GitRoll Profile Badge" style="height: 280px;"/></a>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-sltn&.github.io) -->
 
 ##
 
