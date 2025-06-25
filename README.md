@@ -1,6 +1,35 @@
- <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=da2c38&center=true&vCenter=true&width=700&height=100&lines=Hi+there+%F0%9F%91%8B;I+am+Nima+Soltanian+;Good+to+see+you+my+friend+%3A)" alt="Typing SVG" />
-  </h1>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Nima Soltanian's GitHub profile. Web Developer skilled in Frontend.">
+<meta name="author" content="Nima Soltanian">
+<meta name="keywords" content="Nima Soltanian, Web Developer, Frontend, React.js, Next.js, Tailwindcss, JavaScript,TypeScript, CSS, HTML">
+
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
+
+<meta property="og:title" content="Nima Soltanian's GitHub Profile">
+<meta property="og:description" content=" Nima Soltanian's GitHub profile. Web Developer skilled in Frontend.">
+<meta property="og:url" content="https://github.com/Nima-sltn">
+<meta property="og:type" content="website">
+
+<!--============================== WELCOME IMAGE ==============================-->
+<div align='left'>
+<div id="header" align="center" >
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA4MzgwNTUsIm5iZiI6MTc1MDgzNzc1NSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI1VDA3NDkxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVhZTJiNjkyZjVjMzA5ZTE3YWNiNWIyZTc3YWJjNWExNzk5MzhhZmRjZTVlYWQ2MmI0MzNkOGJlMWM5ODMyOTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OWlioL1RTSKXp14sNDIjdPxv3hFry893vtira6NvSTU" width='950' height="350"  alt="perfect night"  />
+</div>
+<div align='center'> 
+ <h3>
+  𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="35" height="35" />
+ 𝙄 𝙖𝙢 𝙉𝙞𝙢𝙖 𝙎𝙤𝙡𝙩𝙖𝙣𝙞𝙖𝙣
+  </h3>
+</div> 
+</div>
+
+---
+<!-- <h1 align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=700&color=ffffff&center=true&vCenter=true&width=700&height=50&lines=Hi+there+%F0%9F%91%8B;I+am+Nima+Soltanian+;Good+to+see+you+my+friend+%3A)" alt="Typing SVG" />
+  </h1> -->
 
   
 ### 👨‍💻  About Me:
@@ -83,7 +112,6 @@
 
 <a href="https://gitroll.io/profile/usxXsLzkKsPTBMJ05UQvL0z6Fq1i2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/usxXsLzkKsPTBMJ05UQvL0z6Fq1i2?theme=dark" alt="GitRoll Profile Badge" style="height: 278px"/></a>
 <img src="https://github-profile-trophy.vercel.app/?username=Nima-sltn&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-
 
 
 
