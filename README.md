@@ -79,18 +79,17 @@ I'm Nima, a passionate front-end engineer blending design and code to create sea
 
 </div>
 
-    ---
+  ---
 
 ## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4ca.png" width="28" style="vertical-align:middle;" /> GitHub Stats & Achievements
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nima-sltn&theme=dark&hide_border=true" alt="GitHub Streak" />
-   <img src="https://gitroll.io/api/badges/profiles/v1/usxXsLzkKsPTBMJ05UQvL0z6Fq1i2?theme=dark" alt="GitRoll Profile Badge" width="350" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-sltn&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
   <img src="https://github-profile-trophy.vercel.app/?username=Nima-sltn&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="Profile Trophies" />
 </p>
 <p align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-sltn&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+   <img src="https://gitroll.io/api/badges/profiles/v1/usxXsLzkKsPTBMJ05UQvL0z6Fq1i2?theme=dark" alt="GitRoll Profile Badge" width="350" />
 </p>
 
 
