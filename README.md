@@ -97,11 +97,11 @@ I'm Mohammad, a passionate front-end engineer blending design and code to create
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-sltn&theme=dark&hide_border=true&exclude_repo=Tapsi-Frontend-SPA&layout=compact" alt="Top Languages" />
   <img src="https://github-profile-trophy.vercel.app/?username=Nima-sltn&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="Profile Trophies" />
 </p>
-<p align="center">
+<!-- <p align="center">
    <img src="https://gitroll.io/api/badges/profiles/v1/usxXsLzkKsPTBMJ05UQvL0z6Fq1i2?theme=dark" alt="GitRoll Profile Badge" width="380" />
-</p>
+</p> -->
 
 
 <!--
-**Nima-sltn/Nima-sltn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mohammaddadsetan/Mohammaddadsetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
