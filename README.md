@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./night.gif" width="900" height="320" alt="Perfect Night" style="border-radius:16px;" />
   <h1>
-    𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="36" />  𝙄 𝙖𝙢 𝙉𝙞𝙢𝙖 𝙎𝙤𝙡𝙩𝙖𝙣𝙞𝙖𝙣
+    𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="36" />  𝙄 𝙖𝙢 Mohammad Dadsetanpour
   </h1>
 <!--   <h2>
     I'm <span style="color:#38B2AC;">Nima Soltanian</span> — Crafting the future of the web, one pixel at a time.
@@ -29,7 +29,7 @@
   
 ## 👨‍💻 About Me
 
-I'm Nima, a passionate front-end engineer blending design and code to create seamless, memorable web experiences. I focus on modern JavaScript frameworks, performance, and accessibility. Always learning, always building!
+I'm Mohammad, a passionate front-end engineer blending design and code to create seamless, memorable web experiences. I focus on modern JavaScript frameworks, performance, and accessibility. Always learning, always building!
 
 ---
 
