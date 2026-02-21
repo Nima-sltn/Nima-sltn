@@ -41,10 +41,13 @@ I'm Nima, a passionate front-end engineer blending design and code to create sea
 <img src="https://img.shields.io/badge/HTML5-gradient?logo=html5&logoColor=white&style=for-the-badge&labelColor=E44D26&color=F16529" />
 <img src="https://img.shields.io/badge/CSS3-gradient?logo=css3&logoColor=white&style=for-the-badge&labelColor=264DE4&color=2965F1" />
 <img src="https://img.shields.io/badge/TailwindCSS-gradient?logo=tailwind-css&logoColor=white&style=for-the-badge&labelColor=06B6D4&color=38B2AC" />
+<img src="https://img.shields.io/badge/ShadCN_UI-gradient?logo=shadcnui&logoColor=white&style=for-the-badge&labelColor=000000&color=333333" />
+<img src="https://img.shields.io/badge/Radix_UI-gradient?logo=radix-ui&logoColor=white&style=for-the-badge&labelColor=161618&color=3D3D3D" />
 <img src="https://img.shields.io/badge/Bootstrap-gradient?logo=bootstrap&logoColor=white&style=for-the-badge&labelColor=6f42c1&color=8A11FA" />
 <img src="https://img.shields.io/badge/MUI-gradient?logo=mui&logoColor=white&style=for-the-badge&labelColor=007FFF&color=1976D2" />
 <img src="https://img.shields.io/badge/Styled--Components-gradient?logo=styled-components&logoColor=white&style=for-the-badge&labelColor=DB7093&color=FF69B4" />
-<img src="https://img.shields.io/badge/ShadCN_UI-gradient?logo=radix-ui&logoColor=white&style=for-the-badge&labelColor=000000&color=333333" />
+<img src="https://img.shields.io/badge/Framer_Motion-gradient?logo=framer&logoColor=white&style=for-the-badge&labelColor=0055FF&color=0033CC" />
+<img src="https://img.shields.io/badge/Animate_UI-gradient?logo=framer&logoColor=white&style=for-the-badge&labelColor=8B5CF6&color=6D28D9" />
 
 ### 💻 Languages
 <img src="https://img.shields.io/badge/JavaScript-gradient?logo=javascript&logoColor=white&style=for-the-badge&labelColor=F7DF1E&color=FFD600" />
@@ -59,6 +62,7 @@ I'm Nima, a passionate front-end engineer blending design and code to create sea
 <img src="https://img.shields.io/badge/Zod-gradient?logo=zod&logoColor=white&style=for-the-badge&labelColor=3068b7&color=4682B4" />
 <img src="https://img.shields.io/badge/React_Hook_Form-gradient?logo=reacthookform&logoColor=white&style=for-the-badge&labelColor=EC5990&color=FF3E7F" />
 <img src="https://img.shields.io/badge/React_Router-gradient?logo=react-router&logoColor=white&style=for-the-badge&labelColor=CA4245&color=E53935" />
+<img src="https://img.shields.io/badge/i18next-gradient?logo=i18next&logoColor=white&style=for-the-badge&labelColor=26A69A&color=00796B" />
 <img src="https://img.shields.io/badge/Chart.js-gradient?logo=chart.js&logoColor=white&style=for-the-badge&labelColor=F5788D&color=FF6384" />
 <img src="https://img.shields.io/badge/Sanity-gradient?logo=sanity&logoColor=white&style=for-the-badge&labelColor=F03E2F&color=FF3D00" />
 
@@ -94,8 +98,8 @@ I'm Nima, a passionate front-end engineer blending design and code to create sea
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nima-sltn&theme=dark&hide_border=true" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-sltn&theme=dark&hide_border=true&exclude_repo=Tapsi-Frontend-SPA&layout=compact" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Nima-sltn&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="Profile Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-sltn&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nima-sltn&row=1&column=6&margin-h=8&theme=darkhub&margin-w=15&no-frame=true" alt="Profile Trophies" />
 </p>
 <p align="center">
    <img src="https://gitroll.io/api/badges/profiles/v1/usxXsLzkKsPTBMJ05UQvL0z6Fq1i2?theme=dark" alt="GitRoll Profile Badge" width="380" />
