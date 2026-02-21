@@ -112,8 +112,12 @@ I'm Nima, a passionate front-end engineer blending design and code to create sea
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nima-sltn&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-sltn&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Nima-sltn&row=1&column=6&margin-h=8&theme=darkhub&margin-w=15&no-frame=true" alt="Profile Trophies" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nima-sltn&theme=dark&hide_border=true&layout=compact&langs_count=8&count_private=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nima-sltn&row=1&column=7&margin-h=8&theme=darkhub&margin-w=15&no-frame=true" alt="Profile Trophies" />
 </p>
 <p align="center">
    <img src="https://gitroll.io/api/badges/profiles/v1/usxXsLzkKsPTBMJ05UQvL0z6Fq1i2?theme=dark" alt="GitRoll Profile Badge" width="380" />
