@@ -43,11 +43,11 @@ I'm Nima, a passionate front-end engineer blending design and code to create sea
 <img src="https://img.shields.io/badge/TailwindCSS-gradient?logo=tailwind-css&logoColor=white&style=for-the-badge&labelColor=06B6D4&color=38B2AC" />
 <img src="https://img.shields.io/badge/ShadCN_UI-gradient?logo=shadcnui&logoColor=white&style=for-the-badge&labelColor=000000&color=333333" />
 <img src="https://img.shields.io/badge/Radix_UI-gradient?logo=radix-ui&logoColor=white&style=for-the-badge&labelColor=161618&color=3D3D3D" />
-<img src="https://img.shields.io/badge/Bootstrap-gradient?logo=bootstrap&logoColor=white&style=for-the-badge&labelColor=6f42c1&color=8A11FA" />
-<img src="https://img.shields.io/badge/MUI-gradient?logo=mui&logoColor=white&style=for-the-badge&labelColor=007FFF&color=1976D2" />
-<img src="https://img.shields.io/badge/Styled--Components-gradient?logo=styled-components&logoColor=white&style=for-the-badge&labelColor=DB7093&color=FF69B4" />
 <img src="https://img.shields.io/badge/Framer_Motion-gradient?logo=framer&logoColor=white&style=for-the-badge&labelColor=0055FF&color=0033CC" />
 <img src="https://img.shields.io/badge/Animate_UI-gradient?logo=framer&logoColor=white&style=for-the-badge&labelColor=8B5CF6&color=6D28D9" />
+<img src="https://img.shields.io/badge/MUI-gradient?logo=mui&logoColor=white&style=for-the-badge&labelColor=007FFF&color=1976D2" />
+<img src="https://img.shields.io/badge/Bootstrap-gradient?logo=bootstrap&logoColor=white&style=for-the-badge&labelColor=6f42c1&color=8A11FA" />
+<img src="https://img.shields.io/badge/Styled--Components-gradient?logo=styled-components&logoColor=white&style=for-the-badge&labelColor=DB7093&color=FF69B4" />
 
 ### 💻 Languages
 <img src="https://img.shields.io/badge/JavaScript-gradient?logo=javascript&logoColor=white&style=for-the-badge&labelColor=F7DF1E&color=FFD600" />
