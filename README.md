@@ -29,7 +29,7 @@
   
 ## 👨‍💻 About Me
 
-I'm Nima, a passionate front-end engineer blending design and code to create seamless, memorable web experiences. I focus on modern JavaScript frameworks, performance, and accessibility. Always learning, always building!
+I'm Nima, a passionate front-end developer blending design and code to create seamless, memorable web experiences. I focus on modern JavaScript frameworks, performance, and accessibility. Always learning, always building!
 
 ---
 ## 🚀 Tech Stack
