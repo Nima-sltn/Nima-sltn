@@ -183,7 +183,7 @@ motto: "Clean Code. Great UX. High Performance."
 
 <div align="center">
   
-<img src="https://gitroll.io/api/badges/profiles/v1/usxXsLzkKsPTBMJ05UQvL0z6Fq1i2?theme=dark" width="420" />
+<img src="https://gitroll.io/api/badges/profiles/v1/usxXsLzkKsPTBMJ05UQvL0z6Fq1i2?theme=tokyoNight" width="420" />
 
 </div>
 
