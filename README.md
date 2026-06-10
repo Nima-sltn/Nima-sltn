@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./night.gif" width="100%" alt="Banner" />
+<img src="./night.gif" width="900" height="320" alt="Banner" />
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="36" /> Hey, I'm Nima Soltanian
 
@@ -30,9 +30,7 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nima-sltn&theme=tokyonight" />
-</p>
+
 
 # 👨‍💻 About Me
 
