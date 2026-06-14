@@ -4,7 +4,7 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="36" /> Hey, I'm Nima Soltanian
 
-### Front-End Engineer • React • Next.js • TypeScript
+### Front-End Developer • React • Next.js • TypeScript
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=900&lines=Building+Modern+Web+Experiences;React+%7C+Next.js+%7C+TypeScript;Performance+Driven+Frontend+Engineer;Crafting+Scalable+Frontend+Architectures;Always+Learning+Something+New" />
 
