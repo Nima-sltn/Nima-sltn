@@ -34,29 +34,18 @@
 
 # 👨‍💻 About Me
 
-```yaml
-name: Nima Soltanian
+<img align="right" width="300" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
 
-role: Front-End Engineer
+I'm Nima, a Front-End Developer passionate about building fast, scalable, and delightful web experiences.
 
-specialized_in:
-  - React
-  - Next.js
-  - TypeScript
+- ⚛️ Specialized in React, Next.js & TypeScript
+- 🏗️ Building scalable and maintainable architectures
+- 🚀 Performance-driven mindset
+- ♿ Focused on accessibility and UX
+- 🎨 Passionate about clean interfaces and design systems
+- 📚 Always learning and exploring better ways to build
 
-focus:
-  - Performance Optimization
-  - Accessibility
-  - Scalable Architecture
-  - Developer Experience
-
-currently_learning:
-  - Advanced React Patterns
-  - Frontend Architecture
-  - Core Web Vitals
-
-motto: "Clean Code. Great UX. High Performance."
-```
+> **Clean Code × Great UX × High Performance**
 
 <br/>
 
