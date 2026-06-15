@@ -34,18 +34,21 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
+<img align="right" width="280" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
 
-I'm Nima, a Front-End Developer passionate about building fast, scalable, and delightful web experiences.
+Front-End Developer focused on building real-world, production-grade web applications — not just UI screens.
 
-- ⚛️ Specialized in React, Next.js & TypeScript
-- 🏗️ Building scalable and maintainable architectures
-- 🚀 Performance-driven mindset
-- ♿ Focused on accessibility and UX
-- 🎨 Passionate about clean interfaces and design systems
-- 📚 Always learning and exploring better ways to build
+I work mainly with React, Next.js, and TypeScript, and I care about how things actually scale in production: architecture, performance, maintainability, and UX that doesn’t break under pressure.
 
-> **Clean Code × Great UX × High Performance**
+Most of my experience comes from building complex systems like:
+- AI-powered content platforms
+- Fintech dashboards with real-time data
+- Tourism & booking systems with multilingual support
+- Admin panels with heavy business logic and state complexity
+
+I’m not just interested in making things look good — I like solving the messy parts: data flow, state management, API design, and turning chaotic requirements into clean systems.
+
+> Build it clean. Make it fast. Keep it scalable.
 
 <br/>
 
